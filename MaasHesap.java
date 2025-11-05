@@ -56,6 +56,7 @@ public class MaasHesap {
         System.out.printf("\nSaatlik Net kazanc: %.2f", saatliknetKazanc);
         System.out.printf("\nGunluk Net Kazanc: %.2f",gunlukNetKazanc);
         System.out.print("\n$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
+        input.close();
     }
 }  
 
